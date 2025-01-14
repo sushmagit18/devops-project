@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: my-app:1.0
+        image: sushmadocker25/devops-project:1.0
         ports:
         - containerPort: 8080
